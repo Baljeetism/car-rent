@@ -4,7 +4,7 @@ var year=date.getFullYear();
 function Footer(){
     return(
         <footer className="footer">
-            <p>© Copyright {year}</p>
+            <p>© Copyright Baljeet Singh {year}</p>
         </footer>
     );
 }
